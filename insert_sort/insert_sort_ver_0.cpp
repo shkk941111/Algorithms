@@ -5,7 +5,6 @@ void swap();
 void printo();
 
 int arr[] = {7,5,2,4,3,1,9,8,6};
-
 int main()
 {
 	sort();
